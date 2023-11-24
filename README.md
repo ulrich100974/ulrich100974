@@ -1,3 +1,2 @@
-strng_one = "My dog ate "
-string_two = "my homework!"
-string_three = string_one + string_two
+ def keyword_function(a=1, b=2):
+        return a+b
