@@ -1,3 +1,3 @@
-# This is a comment before some code
-print("Hello from Python!")
-print("Winter is coming") # this is an in-line comment
+strng_one = "My dog ate "
+string_two = "my homework!"
+string_three = string_one + string_two
